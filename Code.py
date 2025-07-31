@@ -3,7 +3,7 @@ from tkinter import messagebox
 from tkinter import ttk
 import mysql.connector
 
-# Function to insert data int the databa
+# Function to insert data int the datab
 def submit_data():
     name = entry_name.get()
     number = entry_number.get()
