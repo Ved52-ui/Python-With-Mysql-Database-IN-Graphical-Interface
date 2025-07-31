@@ -3,7 +3,7 @@ from tkinter import messagebox
 from tkinter import ttk
 import mysql.connector
 
-# Function to inset data int the 
+# Functionj kkvvkrv rmmrogkkrgvkkgvnolvkvjvkkvnkc
 def submit_data():
     name = entry_name.get()
     number = entry_number.get()
