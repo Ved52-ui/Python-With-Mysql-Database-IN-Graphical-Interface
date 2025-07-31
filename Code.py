@@ -3,7 +3,7 @@ from tkinter import messagebox
 from tkinter import ttk
 import mysql.connector
 
-# Funcrog fkmvk khhbjjbjrrbjk
+# Funcrog fkmvk khhbjjbjrrbjkfnhfvnknrmkmbk
 def submit_data():
     name = entry_name.get()
     number = entry_number.get()
