@@ -2,7 +2,7 @@
 
 A modern and interactive **Graphical User Interface (GUI)** built using **Python** that lets you easily input and store user data directly into a **MySQL database**!  
 Perfect for beginners, projects, mini CRMs, registration forms, or just learning how to combine **Python + GUI + MySQL**. 🚀
-11111111111111111111
+
 ---
 
 ## 🎯 Project Overview
