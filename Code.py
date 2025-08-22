@@ -1,8 +1,9 @@
+------------------------
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import ttk
 import mysql.connector
-------------------------
+
 
 def submit_data():
     name = entry_name.get()
