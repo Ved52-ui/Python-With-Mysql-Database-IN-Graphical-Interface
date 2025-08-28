@@ -1,5 +1,5 @@
 CREATE DATABASE testdb;
-=======================
+======================
 USE testdb;
 
 CREATE TABLE users (
